@@ -112,3 +112,9 @@ a {
     margin: 2rem 0;
   }
 }
+
+@media (max-width: 800px) {
+  main {
+    width: 90%;
+  }
+}
