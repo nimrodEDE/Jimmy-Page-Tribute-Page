@@ -2,4 +2,4 @@
 
  ## Try it out !
 
- https://nimrodede.github.io/Jimmy-Page-Tribute-Page-/
+ https://nimrodede.github.io/Jimmy-Page-Tribute-Page/
